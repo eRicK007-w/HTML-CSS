@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+html {
+    font-family: 'idroid', sans-serif;
+}
+
+header {
+    background-color: rgb(16, 150, 81);
+    color: white;
+    padding: 0px;
+    border: 1px solid black;
+    margin: 0px;
+}
+
+header > h1 {
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+img {
+    background-color: white;
+}
+
+header > h3 {
+    text-align: center;
+}
+
+main {
+    background-color: rgb(37, 193, 143);
+    color: black;
+    padding: 0px;
+    margin: 0px 351px;
+    border: 2px solid black;
+    display: block;
+    
+}
+
+.parte1 {
+    color: rgb(26, 84, 26);
+    background-color: white;
+}
+
+.parte2 {
+    color: black;
+    background-color: white;
+}
